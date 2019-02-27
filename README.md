@@ -19,4 +19,4 @@ Aplikasi / website untuk membantu antrian pasien saat berobat ke dokter.
 1. Penerapan teknologi masyarakat masih minim
 2. Data pasien rentan ... ---- untuk disalahgunakan
 
-BAHAGIA & SUKSES === BERMANFAAT UNTUK ORANG LAIN 
+### BAHAGIA & SUKSES === BERMANFAAT UNTUK ORANG LAIN 
